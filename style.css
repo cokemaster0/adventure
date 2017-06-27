@@ -8,4 +8,24 @@
 
 #header p {
 	font-size: 17px;
+	position: absolute;
+	top: 75px;
+	left:150px;
+	width: 500px;
+	border: solid;
+	padding: 5px;
+}
+
+#login {
+	position: absolute;
+	top: 85px;
+	right: 200px;
+	border: solid;
+	padding: 5px;
+}
+
+#textbox {
+	position: absolute;
+	top: 250px;
+	left: 300px;
 }
